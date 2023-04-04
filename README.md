@@ -1,6 +1,6 @@
 # Deep-Learning-for-Natural-Language-Processing
 
-💡🧠💬 Development of Deep Learning models using Feedforward Neural Networks, Recurrent Neural Networks and a pre-trained BERT model for sentiment classification tasks.
+💡🧠💬 Development of Deep Learning models using Feedforward Neural Networks, Recurrent Neural Networks and a pre-trained BERT model for sentiment classification tasks. A Question Answering Engine used for Entity Span and Relation prediction is also developed.
 
 ## FNN
 
